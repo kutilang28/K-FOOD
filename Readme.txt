@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+K-Food Official Website (SCNFood) in PT.Kadesh Borneo
+Website: www.e-kfood.com
